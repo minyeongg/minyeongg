@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **DIVE(개발자 기술면접 연습 웹사이트)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
