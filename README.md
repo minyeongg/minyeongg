@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![minyeongg's github stats](https://github-readme-stats.vercel.app/api?username=1030pmy)](https://github.com/1030pmy/github-readme-stats)
+[![minyeongg's github stats](https://github-readme-stats.vercel.app/api?username=minyeongg)](https://github.com/minyeongg/github-readme-stats)
