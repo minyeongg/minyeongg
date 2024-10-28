@@ -36,9 +36,6 @@ Hi, I'm Miyeong
 ![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyeongg&layout=compact)](https://github.com/minyeongg/github-readme-stats)
-
-
 <br/>
 
 # 💬 Contacts  
