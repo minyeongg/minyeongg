@@ -36,7 +36,7 @@ Hi, I'm Miyeong
 ![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)
 
 
-<br/>
+
 
 # 💬 Contacts  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1030pmy@gmail.com)](mailto:1030pmy@gmail.com)
