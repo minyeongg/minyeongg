@@ -1,4 +1,4 @@
-# Hi, I'm Miyeong! 
+# Hi, I'm Minyeong! 
 
 🤔 I’m currently working DIVE(개발자 기술면접 연습 웹사이트)
 
@@ -39,7 +39,6 @@
 
 # 💬 Contacts  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1030pmy@gmail.com)](mailto:1030pmy@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminyeongg&count_bg=%23FFB463&title_bg=%23949494&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
@@ -59,6 +58,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![minyeongg's github stats](https://github-readme-stats.vercel.app/api?username=minyeongg)](https://github.com/minyeongg/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1030pmy)](https://solved.ac/1030pmy/)
 
