@@ -3,11 +3,11 @@
 🤔 I’m currently working DIVE(개발자 기술면접 연습 웹사이트)
 
 
-# ⚡ Experience
+# Experience
 - GDSC Seoultech 2기 멤버 (2022/08 ~ 2023/05)
 
 
-# 🌱 Skills 
+# Skills 
 
 ## Server-side
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
