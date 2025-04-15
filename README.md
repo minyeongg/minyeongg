@@ -1,6 +1,5 @@
-# Hello World! 
-Hi, I'm Miyeong
-<br>
+# Hi, I'm Miyeong! 
+
 🤔 I’m currently working DIVE(개발자 기술면접 연습 웹사이트)
 
 
