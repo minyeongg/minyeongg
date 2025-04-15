@@ -4,7 +4,7 @@
 
 
 # ⚡ Experience
-- Google Developer Student Club Seoultech 2nd Member (2022/08 ~ 2023/05)
+- GDSC Seoultech 2기 멤버 (2022/08 ~ 2023/05)
 
 
 # 🌱 Skills 
