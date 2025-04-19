@@ -23,5 +23,6 @@
 ### 💬 Contacts  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1030pmy@gmail.com)](mailto:1030pmy@gmail.com)
 
-
+### 🔎 Etc.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1030pmy)](https://solved.ac/1030pmy/)
 
