@@ -12,13 +12,17 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white) <br>
 **DB** <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) <br>
+**CI/CD** <br>
+
 **Infra Structure** <br>
 ![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) <br>
 **Front** <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white) <br>
-**Tools** <br>
+**VCS** <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) <br>
+**Tools** <br>
+
 ### 🧩  Projects
 [[DIVE]](https://github.com/minyeongg/dive-server) : AI 기반 기술면접 연습영상 피드백 웹사이트 (2024.10 ~ ) <br>
 [[MetaKakao]](https://github.com/MetaKakao/MetaKakao) : 카카오톡 친구와 나누는 익명 질의응답 웹 서비스 (2023.10 ~ 2023.12) <br>
