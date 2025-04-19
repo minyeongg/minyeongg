@@ -18,10 +18,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) 
 ### 🧩  Projects
-- <a href="https://github.com/minyeongg/dive-server" text-decoration: none>DIVE</a> : AI 기반 기술면접 연습영상 피드백 웹사이트 (2024.10 ~ )
-- <a href="https://github.com/MetaKakao/MetaKakao" text-decoration: none>MetaKakao</a> : 카카오톡 친구와 나누는 익명 질의응답 웹 서비스 (2023.10 ~ 2023.12)
-- <a href="https://github.com/2023ToolsProject/trablog-spring" text-decoration: none>TraBlog</a> : MZ세대를 위한 여행 기록 및 도장깨기 어플 (2023.08 ~ 2023.12)
-- <a href="https://github.com/minyeongg/MenuToday" text-decoration: none>MenuToday</a> : 만개의 레시피 크롤링 기반 메뉴 추천 및 레시피 어플 (2023.10 ~ 2023.12)
+- <a href="https://github.com/minyeongg/dive-server" style="text-decoration: none;">[DIVE]</a> : AI 기반 기술면접 연습영상 피드백 웹사이트 (2024.10 ~ )
+- <a href="https://github.com/MetaKakao/MetaKakao" style="text-decoration: none;">[MetaKakao]</a> : 카카오톡 친구와 나누는 익명 질의응답 웹 서비스 (2023.10 ~ 2023.12)
+- <a href="https://github.com/2023ToolsProject/trablog-spring" style="text-decoration: none;">[TraBlog]</a> : MZ세대를 위한 여행 기록 및 도장깨기 어플 (2023.08 ~ 2023.12)
+- <a href="https://github.com/minyeongg/MenuToday" style="text-decoration: none;">[MenuToday]</a> : 만개의 레시피 크롤링 기반 메뉴 추천 및 레시피 어플 (2023.10 ~ 2023.12)
 ### 💬  Contacts  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1030pmy@gmail.com)](mailto:1030pmy@gmail.com)
 
