@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) 
 ### 🧩  Projects
-- [DIVE] (https://github.com/minyeongg/dive-server/blob/main/README.md) : AI 기반 기술면접 연습영상 피드백 웹사이트 (2024.10 ~ )
+- [DIVE](https://github.com/minyeongg/dive-server) : AI 기반 기술면접 연습영상 피드백 웹사이트 (2024.10 ~ )
 ### 💬  Contacts  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1030pmy@gmail.com)](mailto:1030pmy@gmail.com)
 
