@@ -19,9 +19,9 @@
 **Front** <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white) <br>
 **VCS** <br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) <br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br>
 **Tools** <br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) <br>
 
 ### 🧩  Projects
 [[DIVE]](https://github.com/minyeongg/dive-server) : AI 기반 기술면접 연습영상 피드백 웹사이트 (2024.10 ~ ) <br>
