@@ -24,5 +24,6 @@
 
 
 ### 🔎 Etc.
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minyeongg)](https://velog.io/@minyeongg/Github-Action%EC%9C%BC%EB%A1%9C-CICD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1030pmy)](https://solved.ac/1030pmy/)
 
