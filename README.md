@@ -2,10 +2,10 @@
 
 #### 🔭 I’m currently working on DIVE(AI 기반 개발자 기술면접 연습 영상 피드백 웹사이트)
 
-### 👩🏻‍💻 Experience
+### 👩🏻‍💻  Experience
 - GDSC Seoultech 2기 멤버 (2022.08 ~ 2023.05) 
 
-### 🛠️ Skills 
+### 🛠️  Skills 
 **Server-side** <br>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
@@ -17,9 +17,9 @@
 **Tools** <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) 
-### 🧩 Projects
+### 🧩  Projects
 
-### 💬 Contacts  
+### 💬  Contacts  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1030pmy@gmail.com)](mailto:1030pmy@gmail.com)
 
 
