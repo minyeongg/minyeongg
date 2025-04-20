@@ -10,9 +10,7 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-CA0C00?style=flat-square&logo=Java&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white) <br>
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white) <br>
 **DB** <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) <br>
 **CI/CD** <br>
@@ -20,8 +18,7 @@
 **Infra Structure** <br>
 ![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) <br>
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white) <br>
 **Front** <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
