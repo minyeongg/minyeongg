@@ -1,6 +1,5 @@
 ## Hi, I'm Minyeong Park 🖐🏻
 
-#### 🔭 I’m currently working on DIVE(AI 기반 개발자 기술면접 연습 영상 피드백 웹사이트)
 
 ### 👩🏻‍💻  Experience
 - GDSC Seoultech 2기 멤버 (2022.08 ~ 2023.05) 
