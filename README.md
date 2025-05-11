@@ -5,6 +5,12 @@
 ### 👩🏻‍💻  Experience
 - GDSC Seoultech 2기 멤버 (2022.08 ~ 2023.05) 
 
+### 🧩  Projects
+[[DIVE]](https://github.com/minyeongg/dive-server) : AI 기반 기술면접 연습영상 피드백 웹사이트 (2024.10 ~ 2025.05(예정)) <br>
+[[MetaKakao]](https://github.com/MetaKakao/MetaKakao) : 카카오톡 친구와 나누는 익명 질의응답 웹 서비스 (2023.10 ~ 2023.12) <br>
+[[Trablog]](https://github.com/2023ToolsProject/trablog-spring) : MZ세대를 위한 여행 기록 및 도장깨기 어플 (2023.08 ~ 2023.12) <br>
+[[MenuToday]](https://github.com/minyeongg/MenuToday) : 만개의 레시피 크롤링 기반 메뉴 추천 및 레시피 어플 (2023.10 ~ 2023.12)
+
 ### 🛠️  Skills 
 **Server-side** <br>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
@@ -32,11 +38,6 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black)
-### 🧩  Projects
-[[DIVE]](https://github.com/minyeongg/dive-server) : AI 기반 기술면접 연습영상 피드백 웹사이트 (2024.10 ~ 2025.05(예정)) <br>
-[[MetaKakao]](https://github.com/MetaKakao/MetaKakao) : 카카오톡 친구와 나누는 익명 질의응답 웹 서비스 (2023.10 ~ 2023.12) <br>
-[[Trablog]](https://github.com/2023ToolsProject/trablog-spring) : MZ세대를 위한 여행 기록 및 도장깨기 어플 (2023.08 ~ 2023.12) <br>
-[[MenuToday]](https://github.com/minyeongg/MenuToday) : 만개의 레시피 크롤링 기반 메뉴 추천 및 레시피 어플 (2023.10 ~ 2023.12)
 ### 💬 Contacts  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1030pmy@gmail.com)](mailto:1030pmy@gmail.com)
 
