@@ -5,7 +5,7 @@
 - GDSC Seoultech 2기 멤버 (2022.08 ~ 2023.05) 
 
 ### 🧩  Projects
-[[DIVE]](https://github.com/minyeongg/dive-server) : AI 기반 기술면접 연습영상 피드백 웹사이트 (2024.10 ~ 2025.05(예정)) <br>
+[[DIVE]](https://github.com/minyeongg/dive-server) : AI 기반 기술면접 연습영상 피드백 웹사이트 (2024.10 ~ 2025.05) <br>
 [[MetaKakao]](https://github.com/MetaKakao/MetaKakao) : 카카오톡 친구와 나누는 익명 질의응답 웹 서비스 (2023.10 ~ 2023.12) <br>
 [[Trablog]](https://github.com/2023ToolsProject/trablog-spring) : MZ세대를 위한 여행 기록 및 도장깨기 어플 (2023.08 ~ 2023.12) <br>
 [[MenuToday]](https://github.com/minyeongg/MenuToday) : 만개의 레시피 크롤링 기반 메뉴 추천 및 레시피 어플 (2023.10 ~ 2023.12)
